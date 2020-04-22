@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h2{
+  color: darkblue;
+}
+
+label {
+  display: block;
+  margin-bottom: 16px;
+}
+input[type=text], select {
+  height: 1.5rem;
+}
+button {
+  color: crimson;
+  background-color: white;
+  height: 2rem;
+  width: 4rem;
+  border-radius: 8px;
+  border: 1px solid crimson;
+}
